@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções inteligente.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções inteligente desde 1998.
 - 🎓 Tecnólogo em Sistemas Para Internet.
 - 🎓 Pós-Graduação em Liderança Técnica.
 - 🎓 Cursando MBA em Engenharia de Software com IA.
