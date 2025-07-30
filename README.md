@@ -65,4 +65,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonlopes-oficial/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonlopes.oficial@gmail.com)
+[![Website](https://img.shields.io/badge/Website-56B8FF?style=for-the-badge&logo=globe&logoColor=white)](https://jasonlopes.com.br)
 [![GitHub](https://img.shields.io/github/followers/jasonlopesoficial?style=for-the-badge&logo=github&label=GitHub&color=23282f)](https://github.com/jasonlopesoficial)
