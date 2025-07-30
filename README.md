@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jasonlopesoficial&color=006bed)
 
-<img width="1392" height="752" alt="image" src="https://github.com/user-attachments/assets/5ef2b70f-d936-4bed-8d5e-91339658f34c" />
+<img width="1280" height="640" alt="jason" src="https://github.com/user-attachments/assets/9f393cec-7ce3-42e8-89f3-ea0978d56010" />
 
 ## Sobre mim
 
